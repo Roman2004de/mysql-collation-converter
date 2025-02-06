@@ -24,11 +24,11 @@ This Bash script automates the process of converting the collation and character
 
 Before running the script, configure the following variables:
 
-DB_USER="your_username"
-DB_PASS="your_password"
-DB_NAME="your_database"
-TARGET_CHARSET="utf8mb4"
-TARGET_COLLATION="utf8mb4_unicode_ci"
+- DB_USER="your_username"
+- DB_PASS="your_password"
+- DB_NAME="your_database"
+- TARGET_CHARSET="utf8mb4"
+- TARGET_COLLATION="utf8mb4_unicode_ci"
 
 ## Usage
 
